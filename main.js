@@ -2,7 +2,7 @@
 // sectionElement.innerHTML = sectionElement.innerHTML + '<div>hello</div>'
 
 const button = document.createElement('button')
-button.append('Click Here to Show Site')
+button.append('Click Here Like Magic it Disapear')
 const sectionElement = document.querySelector('body')
 sectionElement.append(button)
 
